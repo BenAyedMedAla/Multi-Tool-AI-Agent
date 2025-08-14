@@ -18,8 +18,8 @@ This project implements an AI agent using the LLaMA 3.2 model in combination wit
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/BenAyedMedAla/Multi-Tool-AI-Agent.git
+   cd Multi-Tool-AI-Agent
  bash```
 2. **Install dependencies**:
 
