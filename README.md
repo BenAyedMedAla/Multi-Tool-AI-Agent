@@ -40,7 +40,7 @@ This project implements an AI agent using the LLaMA 3.2 model in combination wit
 -Create a .env file in the root directory of the project.
 -Add your API keys to the .env file :
 
-       ```bash
+   ```bash
    WEATHER_API_KEY=your_weather_api_key
    TAVILY_API_KEY=your_tavily_api_key
 
