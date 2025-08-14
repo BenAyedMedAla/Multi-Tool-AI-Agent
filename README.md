@@ -20,7 +20,7 @@ This project implements an AI agent using the LLaMA 3.2 model in combination wit
    ```bash
    git clone https://github.com/BenAyedMedAla/Multi-Tool-AI-Agent.git
    cd Multi-Tool-AI-Agent
- bash```
+
 2. **Install dependencies**:
 
 -Make sure Python 3.10+ is installed.
@@ -29,12 +29,12 @@ This project implements an AI agent using the LLaMA 3.2 model in combination wit
     ```bash
   python -m venv venv
   source venv/bin/activate
- bash```
+
 
 -Install the necessary packages:
     ```bash
    pip install -r requirements.txt
- bash```
+
 
 3. **Set up environment variables**:
 -Create a .env file in the root directory of the project.
