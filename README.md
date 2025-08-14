@@ -96,7 +96,7 @@ Some popular attractions in Sidi Bou Said include:
 
 Overall, Sidi Bou Said is a charming and artistic town that offers visitors a unique glimpse into Tunisia's rich cultural heritage.
 
-1. **Query:  "Will it rain in Trivandrum today? "** :
+2. **Query:  "Will it rain in Trivandrum today? "** :
 
 
 ================================ Human Message =================================
